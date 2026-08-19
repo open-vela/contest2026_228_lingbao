@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "team_id": "contest2026_228_lingbao",
+  "github_login": "gzhgzy1234567890-lang",
+  "generator": "opencode-collector@1.4.0",
+  "updated_at": "2026-08-19T15:02:41.057Z",
+  "sessions": [
+    {
+      "session_id": "ses_fe608939fffeVJn3jjuVYDcCa5",
+      "tool": "opencode",
+      "started_at": "2026-08-19T12:20:40.672Z",
+      "last_event_at": "2026-08-19T15:02:41.057Z",
+      "event_count": 33,
+      "raw_message_count": 20,
+      "file_path": "logs/gzhgzy1234567890-lang/2026-08-19/opencode__ses_fe608939fffeVJn3jjuVYDcCa5.jsonl",
+      "collection_mode": "cli",
+      "health": "ok",
+      "title": "VelaPilot X MVP工程问题审查",
+      "model": "opencode/mimo-v2.5-free"
+    }
+  ]
+}
